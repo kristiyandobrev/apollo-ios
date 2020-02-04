@@ -34,6 +34,7 @@ module.exports = {
           Usage:[
             'downloading-schema',
             'initialization',
+            'codegen-setup',
             'fetching-queries',
             'mutations',
             'fragments',
